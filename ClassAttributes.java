@@ -2,7 +2,7 @@ class Dog{
  
    String breed = "German Shepherd";
    int age = 2;
-   String color = "Brown"; 
+   String color = "Brown And White"; 
 
 } 
   
